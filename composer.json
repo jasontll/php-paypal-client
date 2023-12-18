@@ -1,4 +1,5 @@
 {
+    "name": "jasontll/php-paypal-client",
     "description": "An order represents a payment between two or more parties. Use the Orders API to create, update, retrieve, authorize, and capture orders.",
     "keywords": [
         "openapitools",
